@@ -1,0 +1,819 @@
+[
+    {
+        "codeforces": [
+            "Contest No. 1",
+            {
+                "Name": "Codeforces Round #715 (Div. 1)"
+            },
+            {
+                "Writer": "Ari\n                Kuroni"
+            },
+            {
+                "Date": "Apr/16/2021 20:05UTC+5.5"
+            },
+            {
+                "Length": "02:00"
+            },
+            {
+                "Registration": "Before start 2 days"
+            },
+            "Contest No. 2",
+            {
+                "Name": "Codeforces Round #715 (Div. 2)"
+            },
+            {
+                "Writer": "Ari\n                Kuroni"
+            },
+            {
+                "Date": "Apr/16/2021 20:05UTC+5.5"
+            },
+            {
+                "Length": "02:00"
+            },
+            {
+                "Registration": "Before start 2 days"
+            },
+            "Contest No. 3",
+            {
+                "Name": "Codeforces Round #716 (Div. 2)"
+            },
+            {
+                "Writer": ""
+            },
+            {
+                "Date": "Apr/19/2021 19:05UTC+5.5"
+            },
+            {
+                "Length": "02:15"
+            },
+            {
+                "Registration": "Before start 5 days"
+            },
+            "Contest No. 4",
+            {
+                "Name": "Codeforces Round #717 (Div. 2)"
+            },
+            {
+                "Writer": ""
+            },
+            {
+                "Date": "Apr/21/2021 19:05UTC+5.5"
+            },
+            {
+                "Length": "02:00"
+            },
+            {
+                "Registration": "Before start 7 days"
+            }
+        ]
+    },
+    {
+        "codechefUpcoming": [
+            "Contest No. 1",
+            {
+                "Code": "CDUO2021"
+            },
+            {
+                "Name": "CODUO - Prelims"
+            },
+            {
+                "Start": "14 Apr 2021  20:30:00"
+            },
+            {
+                "End": "14 Apr 2021  23:30:00"
+            },
+            "Contest No. 2",
+            {
+                "Code": "CDMT2021"
+            },
+            {
+                "Name": "Code-MAT"
+            },
+            {
+                "Start": "15 Apr 2021  17:30:00"
+            },
+            {
+                "End": "15 Apr 2021  19:30:00"
+            },
+            "Contest No. 3",
+            {
+                "Code": "SPYB2021"
+            },
+            {
+                "Name": "SPYBITS IIT BHU (Rated for Div 2 & Div 3)"
+            },
+            {
+                "Start": "15 Apr 2021  21:00:00"
+            },
+            {
+                "End": "15 Apr 2021  23:30:00"
+            },
+            "Contest No. 4",
+            {
+                "Code": "COOK128"
+            },
+            {
+                "Name": "April Cook-Off 2021"
+            },
+            {
+                "Start": "18 Apr 2021  21:30:00"
+            },
+            {
+                "End": "19 Apr 2021  00:00:00"
+            },
+            "Contest No. 5",
+            {
+                "Code": "LTIME95"
+            },
+            {
+                "Name": "April Lunchtime 2021"
+            },
+            {
+                "Start": "24 Apr 2021  19:30:00"
+            },
+            {
+                "End": "24 Apr 2021  22:30:00"
+            }
+        ]
+    },
+    {
+        "allUpComingContest": [
+            "Contest No.1",
+            {
+                "contestName": "ProjectEuler+"
+            },
+            {
+                "Platform": "HackerRank"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://hackerrank.com/contests/projecteuler"
+            },
+            "COntest No.2",
+            {
+                "contestName": "Past ZCO Problems"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.codechef.com/ZCOPRAC?itm_campaign=contest_listing"
+            },
+            "COntest No.3",
+            {
+                "contestName": "Past INOI Problems"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.codechef.com/INOIPRAC?itm_campaign=contest_listing"
+            },
+            "COntest No.4",
+            {
+                "contestName": "IARCS OPC Judge Problems"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.codechef.com/IARCSJUD?itm_campaign=contest_listing"
+            },
+            "COntest No.5",
+            {
+                "contestName": "DSA Learning Series"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.codechef.com/LEARNDSA?itm_campaign=contest_listing"
+            },
+            "COntest No.6",
+            {
+                "contestName": "AIM ICPC - Weekly Training Series"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.codechef.com/AIMICPC?itm_campaign=contest_listing"
+            },
+            "COntest No.7",
+            {
+                "contestName": "AGEING BETTER WITH ICTs"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hackathon/ageing-better-with-icts/"
+            },
+            "COntest No.8",
+            {
+                "contestName": "Code with SAP Labs India - Discover, Design, Deliver"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://sap-code.hackerearth.com/"
+            },
+            "COntest No.9",
+            {
+                "contestName": "HackerEarth Machine Learning Challenge: How NOT to lose a customer in 10 days"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/"
+            },
+            "COntest No.10",
+            {
+                "contestName": "You have the virus: HackerEarth Machine Learning challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-virus-detection-chatbot/"
+            },
+            "COntest No.11",
+            {
+                "contestName": "To all the money we've spent before: HackerEarth Machine Learning Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-reduce-marketing-spend/"
+            },
+            "COntest No.12",
+            {
+                "contestName": "Hack To Enable"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hackathon/hack-to-enable/"
+            },
+            "COntest No.13",
+            {
+                "contestName": "Capillary Backend SSE Hiring Challenge - 2021"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hiring/capillary-sse-hiring-challenge-2021/"
+            },
+            "COntest No.14",
+            {
+                "contestName": "Animaker Python Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hiring/animaker-python-developer-hiring-challenge/"
+            },
+            "COntest No.15",
+            {
+                "contestName": "Animaker React Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "-"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hiring/animaker-react-developer-hiring-challenge/"
+            },
+            "COntest No.16",
+            {
+                "contestName": "The Algo Way 2.0"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "2021-04-14 17:00:00"
+            },
+            {
+                "link": "https://www.codechef.com/TAW22021?itm_campaign=contest_listing"
+            },
+            "COntest No.17",
+            {
+                "contestName": "CODUO - Prelims"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "2021-04-14 20:30:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210414T170000%2F20210414T190000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.codechef.com%2FTAW22021%3Fitm_campaign%3Dcontest_listing%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeChef%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h&location=https%3A%2F%2Fwww.codechef.com%2FTAW22021%3Fitm_campaign%3Dcontest_listing&output=xml&sf=true&text=Contest+at+CodeChef%3A+The+Algo+Way+2.0"
+            },
+            "COntest No.18",
+            {
+                "contestName": "Code-MAT"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "2021-04-15 17:30:00"
+            },
+            {
+                "link": "https://www.codechef.com/CDUO2021?itm_campaign=contest_listing"
+            },
+            "COntest No.19",
+            {
+                "contestName": "SPYBITS IIT BHU (Rated for Div 2 & Div 3)"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "2021-04-15 21:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210414T203000%2F20210414T233000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.codechef.com%2FCDUO2021%3Fitm_campaign%3Dcontest_listing%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeChef%0A%3Cb%3EDuration%3A%3C%2Fb%3E+3h&location=https%3A%2F%2Fwww.codechef.com%2FCDUO2021%3Fitm_campaign%3Dcontest_listing&output=xml&sf=true&text=Contest+at+CodeChef%3A+CODUO+-+Prelims"
+            },
+            "COntest No.20",
+            {
+                "contestName": "KreditBee Software Engineer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-16 18:00:00"
+            },
+            {
+                "link": "https://www.codechef.com/CDMT2021?itm_campaign=contest_listing"
+            },
+            "COntest No.21",
+            {
+                "contestName": "Styldod Fullstack Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-16 18:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210415T173000%2F20210415T193000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.codechef.com%2FCDMT2021%3Fitm_campaign%3Dcontest_listing%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeChef%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h&location=https%3A%2F%2Fwww.codechef.com%2FCDMT2021%3Fitm_campaign%3Dcontest_listing&output=xml&sf=true&text=Contest+at+CodeChef%3A+Code-MAT"
+            },
+            "COntest No.22",
+            {
+                "contestName": "EY GDS Hackpions 2.0"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-16 20:00:00"
+            },
+            {
+                "link": "https://www.codechef.com/SPYB2021?itm_campaign=contest_listing"
+            },
+            "COntest No.23",
+            {
+                "contestName": "Codeforces Round #715 (Div. 2)"
+            },
+            {
+                "Platform": "CodeForces"
+            },
+            {
+                "startingTime": "2021-04-16 20:05:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210415T210000%2F20210415T233000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.codechef.com%2FSPYB2021%3Fitm_campaign%3Dcontest_listing%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeChef%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h+30m&location=https%3A%2F%2Fwww.codechef.com%2FSPYB2021%3Fitm_campaign%3Dcontest_listing&output=xml&sf=true&text=Contest+at+CodeChef%3A+SPYBITS+IIT+BHU+%28Rated+for+Div+2+%26+Div+3%29"
+            },
+            "COntest No.24",
+            {
+                "contestName": "Codeforces Round #715 (Div. 1)"
+            },
+            {
+                "Platform": "CodeForces"
+            },
+            {
+                "startingTime": "2021-04-16 20:05:00"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hiring/kreditbee-software-engineer-hiring-challenge/"
+            },
+            "COntest No.25",
+            {
+                "contestName": "April Circuits '21"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-17 09:30:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210416T180000%2F20210425T235500&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fhiring%2Fkreditbee-software-engineer-hiring-challenge%2F%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+HackerEarth%0A%3Cb%3EDuration%3A%3C%2Fb%3E+9d+5h+55m&location=https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fhiring%2Fkreditbee-software-engineer-hiring-challenge%2F&output=xml&sf=true&text=Contest+at+HackerEarth%3A+KreditBee+Software+Engineer+Hiring+Challenge"
+            },
+            "COntest No.26",
+            {
+                "contestName": "(Working Professionals) CTRL + HACK + DEL INEQUALITY"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-17 10:00:00"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hiring/styldod-fullstack-hiring-2021/"
+            },
+            "COntest No.27",
+            {
+                "contestName": "Japanese Student Championship 2021"
+            },
+            {
+                "Platform": "AtCoder"
+            },
+            {
+                "startingTime": "2021-04-17 12:40:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210416T180000%2F20210425T235500&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fhiring%2Fstyldod-fullstack-hiring-2021%2F%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+HackerEarth%0A%3Cb%3EDuration%3A%3C%2Fb%3E+9d+5h+55m&location=https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fhiring%2Fstyldod-fullstack-hiring-2021%2F&output=xml&sf=true&text=Contest+at+HackerEarth%3A+Styldod+Fullstack+Developer+Hiring+Challenge"
+            },
+            "COntest No.28",
+            {
+                "contestName": "Brute Force 4.0 - Cybersecurity"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-17 18:00:00"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hackathon/hackpions-2-ey-gds-hackathon/"
+            },
+            "COntest No.29",
+            {
+                "contestName": "Biweekly Contest 50"
+            },
+            {
+                "Platform": "LeetCode"
+            },
+            {
+                "startingTime": "2021-04-17 20:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210416T200000%2F20210502T235900&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fhackathon%2Fhackpions-2-ey-gds-hackathon%2F%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+HackerEarth%0A%3Cb%3EDuration%3A%3C%2Fb%3E+16d+3h+59m&location=https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fhackathon%2Fhackpions-2-ey-gds-hackathon%2F&output=xml&sf=true&text=Contest+at+HackerEarth%3A+EY+GDS+Hackpions+2.0"
+            },
+            "COntest No.30",
+            {
+                "contestName": "Weekly Contest 237"
+            },
+            {
+                "Platform": "LeetCode"
+            },
+            {
+                "startingTime": "2021-04-18 08:00:00"
+            },
+            {
+                "link": "https://codeforces.com/contestRegistration/1509"
+            },
+            "COntest No.31",
+            {
+                "contestName": "AtCoder Regular Contest 117"
+            },
+            {
+                "Platform": "AtCoder"
+            },
+            {
+                "startingTime": "2021-04-18 17:30:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210416T200500%2F20210416T220500&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fcodeforces.com%2FcontestRegistration%2F1509%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeForces%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h&location=https%3A%2F%2Fcodeforces.com%2FcontestRegistration%2F1509&output=xml&sf=true&text=Contest+at+CodeForces%3A+Codeforces+Round+%23715+%28Div.+2%29"
+            },
+            "COntest No.32",
+            {
+                "contestName": "April Cook-Off 2021"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "2021-04-18 21:30:00"
+            },
+            {
+                "link": "https://codeforces.com/contestRegistration/1508"
+            },
+            "COntest No.33",
+            {
+                "contestName": "Codeforces Round #716 (Div. 2)"
+            },
+            {
+                "Platform": "CodeForces"
+            },
+            {
+                "startingTime": "2021-04-19 19:05:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210416T200500%2F20210416T220500&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fcodeforces.com%2FcontestRegistration%2F1508%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeForces%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h&location=https%3A%2F%2Fcodeforces.com%2FcontestRegistration%2F1508&output=xml&sf=true&text=Contest+at+CodeForces%3A+Codeforces+Round+%23715+%28Div.+1%29"
+            },
+            "COntest No.34",
+            {
+                "contestName": "Codeforces Round #717 (Div. 2)"
+            },
+            {
+                "Platform": "CodeForces"
+            },
+            {
+                "startingTime": "2021-04-21 19:05:00"
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/competitive/april-circuits-21/"
+            },
+            "COntest No.35",
+            {
+                "contestName": "Augnito Junior .Net Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-23 18:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210417T093000%2F20210424T093000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fcompetitive%2Fapril-circuits-21%2F%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+HackerEarth%0A%3Cb%3EDuration%3A%3C%2Fb%3E+7d&location=https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2Fcompetitive%2Fapril-circuits-21%2F&output=xml&sf=true&text=Contest+at+HackerEarth%3A+April+Circuits+%2721"
+            },
+            "COntest No.36",
+            {
+                "contestName": "Augnito Senior .Net Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-23 18:00:00"
+            },
+            {
+                "link": "https://ctrl-hack-del-inequality.hackerearth.com/"
+            },
+            "COntest No.37",
+            {
+                "contestName": "Essenvia Frontend Angular Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-23 18:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210417T100000%2F20210502T235500&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fctrl-hack-del-inequality.hackerearth.com%2F%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+HackerEarth%0A%3Cb%3EDuration%3A%3C%2Fb%3E+15d+13h+55m&location=https%3A%2F%2Fctrl-hack-del-inequality.hackerearth.com%2F&output=xml&sf=true&text=Contest+at+HackerEarth%3A+%28Working+Professionals%29+CTRL+%2B+HACK+%2B+DEL+INEQUALITY"
+            },
+            "COntest No.38",
+            {
+                "contestName": "Essenvia Backend Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-23 18:00:00"
+            },
+            {
+                "link": "https://atcoder.jp/contests/jsc2021"
+            },
+            "COntest No.39",
+            {
+                "contestName": "NatWest Technology India Hiring Challenge 2021"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-24 09:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210417T124000%2F20210417T144000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fatcoder.jp%2Fcontests%2Fjsc2021%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+AtCoder%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h&location=https%3A%2F%2Fatcoder.jp%2Fcontests%2Fjsc2021&output=xml&sf=true&text=Contest+at+AtCoder%3A+Japanese+Student+Championship+2021"
+            },
+            "COntest No.40",
+            {
+                "contestName": "AtCoder Beginner Contest 199Sponsored by Panasonic"
+            },
+            {
+                "Platform": "AtCoder"
+            },
+            {
+                "startingTime": "2021-04-24 17:30:00"
+            },
+            {
+                "link": "https://bruteforce4.hackerearth.com/"
+            },
+            "COntest No.41",
+            {
+                "contestName": "April Lunchtime 2021"
+            },
+            {
+                "Platform": "CodeChef"
+            },
+            {
+                "startingTime": "2021-04-24 19:30:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210417T180000%2F20210418T180000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fbruteforce4.hackerearth.com%2F%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+HackerEarth%0A%3Cb%3EDuration%3A%3C%2Fb%3E+1d&location=https%3A%2F%2Fbruteforce4.hackerearth.com%2F&output=xml&sf=true&text=Contest+at+HackerEarth%3A+Brute+Force+4.0+-+Cybersecurity"
+            },
+            "COntest No.42",
+            {
+                "contestName": "AtCoder Heuristic Contest 002"
+            },
+            {
+                "Platform": "AtCoder"
+            },
+            {
+                "startingTime": "2021-04-25 15:30:00"
+            },
+            {
+                "link": "https://leetcode.com/contest/biweekly-contest-50"
+            },
+            "COntest No.43",
+            {
+                "contestName": "HackerEarth DevOps Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-30 11:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210417T200000%2F20210417T213000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fleetcode.com%2Fcontest%2Fbiweekly-contest-50%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+LeetCode%0A%3Cb%3EDuration%3A%3C%2Fb%3E+1h+30m&location=https%3A%2F%2Fleetcode.com%2Fcontest%2Fbiweekly-contest-50&output=xml&sf=true&text=Contest+at+LeetCode%3A+Biweekly+Contest+50"
+            },
+            "COntest No.44",
+            {
+                "contestName": "Falabella Java Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-30 18:00:00"
+            },
+            {
+                "link": "https://leetcode.com/contest/weekly-contest-237"
+            },
+            "COntest No.45",
+            {
+                "contestName": "Falabella Full Stack Developer Hiring Challenge"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-04-30 18:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210418T080000%2F20210418T093000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fleetcode.com%2Fcontest%2Fweekly-contest-237%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+LeetCode%0A%3Cb%3EDuration%3A%3C%2Fb%3E+1h+30m&location=https%3A%2F%2Fleetcode.com%2Fcontest%2Fweekly-contest-237&output=xml&sf=true&text=Contest+at+LeetCode%3A+Weekly+Contest+237"
+            },
+            "COntest No.46",
+            {
+                "contestName": "Codeforces Global Round 14"
+            },
+            {
+                "Platform": "CodeForces"
+            },
+            {
+                "startingTime": "2021-05-02 20:05:00"
+            },
+            {
+                "link": "https://atcoder.jp/contests/arc117"
+            },
+            "COntest No.47",
+            {
+                "contestName": "Java Developer Hiring Challenge - May21"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-05-07 18:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210418T173000%2F20210418T193000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fatcoder.jp%2Fcontests%2Farc117%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+AtCoder%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h&location=https%3A%2F%2Fatcoder.jp%2Fcontests%2Farc117&output=xml&sf=true&text=Contest+at+AtCoder%3A+AtCoder+Regular+Contest+117"
+            },
+            "COntest No.48",
+            {
+                "contestName": "Organic Food Supply Chain Hackathon"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-05-10 00:00:00"
+            },
+            {
+                "link": "https://www.codechef.com/COOK128?itm_campaign=contest_listing"
+            },
+            "COntest No.49",
+            {
+                "contestName": "AtCoder Heuristic Contest 003"
+            },
+            {
+                "Platform": "AtCoder"
+            },
+            {
+                "startingTime": "2021-05-22 08:30:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210418T213000%2F20210419T000000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fwww.codechef.com%2FCOOK128%3Fitm_campaign%3Dcontest_listing%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeChef%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h+30m&location=https%3A%2F%2Fwww.codechef.com%2FCOOK128%3Fitm_campaign%3Dcontest_listing&output=xml&sf=true&text=Contest+at+CodeChef%3A+April+Cook-Off+2021"
+            },
+            "COntest No.50",
+            {
+                "contestName": "HackOn 2.0"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-05-28 18:00:00"
+            },
+            {
+                "link": "https://codeforces.com/contestRegistration/1514"
+            },
+            "COntest No.51",
+            {
+                "contestName": "Azure Developer League Hackathon"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-06-03 10:00:00"
+            },
+            {
+                "link": "https://calendar.google.com/calendar/u/0/r/eventedit?ctz=Asia%2FKolkata&dates=20210419T190500%2F20210419T212000&details=%3Cb%3EEvent+created+from+%3Ca+href%3D%27https%3A%2F%2Fwww.stopstalk.com%27%3EStopStalk%3C%2Fa%3E%3C%2Fb%3E%0A_____________________________%0A%0A%3Cb%3ELink%3A%3C%2Fb%3E+%3Ca+href%3D%27https%3A%2F%2Fcodeforces.com%2FcontestRegistration%2F1514%27%3EContest+Link%3C%2Fa%3E%0A%3Cb%3ESite%3A%3C%2Fb%3E+CodeForces%0A%3Cb%3EDuration%3A%3C%2Fb%3E+2h+15m&location=https%3A%2F%2Fcodeforces.com%2FcontestRegistration%2F1514&output=xml&sf=true&text=Contest+at+CodeForces%3A+Codeforces+Round+%23716+%28Div.+2%29"
+            },
+            "COntest No.52",
+            {
+                "contestName": "Hack of PI"
+            },
+            {
+                "Platform": "HackerEarth"
+            },
+            {
+                "startingTime": "2021-06-05 09:00:00"
+            },
+            {
+                "link": "https://codeforces.com/contestRegistration/1516"
+            }
+        ]
+    }
+]
